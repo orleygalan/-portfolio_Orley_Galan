@@ -44,11 +44,11 @@ export default function SobreMi({ sobreMi }) {
             desarrollo.
           </p>
 
-          <div className="mt-6">
+          {/* <div className="mt-6">
             <button className="px-6 py-3 bg-blue-600 hover:bg-blue-700 rounded-xl font-semibold transition shadow-lg">
               Descargar CV
             </button>
-          </div>
+          </div> */}
         </div>
       </div>
     </section>
